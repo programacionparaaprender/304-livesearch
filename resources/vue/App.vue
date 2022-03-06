@@ -32,7 +32,6 @@ export default {
     data(){
         return{
             query:"",
-            text: "Hola desde Laravelers",
             listaPost:[]
         }
     },
